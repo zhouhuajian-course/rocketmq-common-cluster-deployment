@@ -1,7 +1,5 @@
 # RocketMQ 常用集群搭建
 
-<center>讲师：周华健</center>
-
 > https://rocketmq.apache.org/zh/
 
 ## 第1章 单主模式 RocketMQ
